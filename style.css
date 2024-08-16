@@ -6,9 +6,11 @@
 }
 
 .section1{
-background-color: crimson;    
+background-color: crimson;
+padding: 100px;
 }
 
 .section2{
-background-color: blue;    
+background-color: blue;
+padding: 100px;    
 }
