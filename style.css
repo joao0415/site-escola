@@ -1,3 +1,9 @@
+.corpodosite{
+    color: white;
+}
+
+
+
 .cabecalho {
     background-image: linear-gradient(black,gray);
     color: #ffffff;
@@ -8,11 +14,13 @@
 .section1{
 background-image: linear-gradient(gray,rgb(65, 65, 65));
 padding: 100px;
+font-size: 20px;
 }
 
 .section2{
 background-image: linear-gradient(rgb(65, 65, 65),black);
-padding: 100px;    
+padding: 100px;
+font-size: 20px;    
 }
 
 .cabecalho-imagem{
